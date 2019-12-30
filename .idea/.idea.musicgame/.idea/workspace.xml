@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef2e507c-448f-4bc4-96c4-9c63e757d531" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="ef2e507c-448f-4bc4-96c4-9c63e757d531" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.musicgame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/New Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/New Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/エフェクト.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/エフェクト.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.musicgame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.musicgame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.musicgame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.musicgame/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.musicgame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.musicgame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Practice/NotesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Practice/NotesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Practice/NotesGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Practice/NotesGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gamescene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gamescene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_song_1011/audio.ogg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_song_1011/audio.ogg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefab/Cube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefab/Cube.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,11 +38,16 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Practice/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Practice/NotesGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Practice/GameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Practice/JsonReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Practice/NotesController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Practice/NotesGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Practice/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_song_1011/audio.ogg.meta" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -35,16 +56,30 @@
         <option value="$PROJECT_DIR$/Assets/NoteMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Practice/ObjectPool.cs" />
         <option value="$PROJECT_DIR$/Assets/Practice/JsonReader.cs" />
-        <option value="$PROJECT_DIR$/Assets/Practice/NotesGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Practice/TimeJudge.cs" />
+        <option value="$PROJECT_DIR$/Assets/Practice/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Practice/NotesController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Practice/NotesGenerator.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1UjaVUs5zQjNsUYwLK1dAWEEBas" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -56,33 +91,31 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,6 +135,15 @@
       <workItem from="1575872487901" duration="121000" />
       <workItem from="1575872642731" duration="1940000" />
       <workItem from="1575875828712" duration="7453000" />
+      <workItem from="1575963819021" duration="3686000" />
+      <workItem from="1576044133924" duration="29000" />
+      <workItem from="1576044459869" duration="6927000" />
+      <workItem from="1576479398602" duration="3286000" />
+      <workItem from="1576484318024" duration="4475000" />
+      <workItem from="1576566405581" duration="1138000" />
+      <workItem from="1576739013746" duration="2493000" />
+      <workItem from="1576741533014" duration="2451000" />
+      <workItem from="1577080478906" duration="2823000" />
     </task>
     <servers />
   </component>
@@ -113,8 +155,21 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.mc" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
